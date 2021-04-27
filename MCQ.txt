@@ -1,0 +1,25 @@
+① $ (document) .ready (function () {~});
+ C: The process that starts the processing of function after reading the DOM. 
+
+
+② $ ('# btn-evaluation'). Click (function () {~});
+ F: The process to start processing function by clicking id=btn-evaluation button.
+
+
+③ $ ('# national_language, #english, #mathematics, #science, #society'). Change (function () {~});
+ F: The process to start processing function when the score of each subject changes.
+
+④ $ ('# national_language'). Val ()
+ A: Get the value entered in the id=national_language form. 
+
+
+⑤ Number ()
+ F: Replace the character string (score of subjects) with a numerical value.
+
+
+⑥ $ (“# sum_indicate”). Text (sum);
+ B: Output sum (subject total score) at id=sum_indicate. 
+
+
+⑦ .append
+ D: Insert the following element at id=declaration. 
